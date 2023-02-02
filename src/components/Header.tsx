@@ -26,7 +26,7 @@ export function Header() {
             Awesoming
           </h2>
           <h3 className="text-xs font-medium mb-4 text-text-color dark:text-dark-text-color">
-            FullStack developer
+            Desenvolvedor <br></br>Fullstack
           </h3>
 
           <ul className="flex justify-center gap-x-3">
