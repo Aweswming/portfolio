@@ -8,7 +8,7 @@ export function Skills() {
       id="skills"
     >
       <div className="skills__area">
-        <h3 className="text-lg text-center mb-6">Frontend</h3>
+        <h3 className="text-lg text-center mb-6">Front-end</h3>
 
         <div className="flex justify-center gap-x-12">
           <div className="grid items-start gap-y-4">
@@ -26,7 +26,7 @@ export function Skills() {
       </div>
 
       <div className="skills__area">
-        <h3 className="text-lg text-center mb-6">Backend</h3>
+        <h3 className="text-lg text-center mb-6">Back-end</h3>
 
         <div className="flex justify-center gap-x-12">
           <div className="grid items-start gap-y-4">
